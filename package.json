@@ -1,0 +1,8 @@
+{
+  "name": "hannu_monitroing",
+  "version": "0.0.1",
+  "description": "Protractor tests run on CTA",
+  "dependencies": {
+      "protractor" : "^2.0.0"
+  }
+}
